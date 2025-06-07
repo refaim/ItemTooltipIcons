@@ -1,3 +1,9 @@
+### Revision 8 (2025/06/07)
+- Attempt to work around a supposed bug in SpellInfo SuperWoW function
+
+### Revision 7 (2025/06/04)
+- Significantly improve localization support by using SuperWoW (if available)
+
 ### Revision 6 (2025/06/01)
 - Add a couple of missing Turtle-specific recipes
 - Add GetCraftsByRecipeId to public API

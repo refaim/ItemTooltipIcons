@@ -2,7 +2,7 @@
 ## Title: ItemTooltipIcons
 ## Notes: This addon adds profession icons to crafting reagents in the item tooltip.
 ## Author: Refaim
-## Version: 1.0
+## Version: 1.1
 
 lib\LibStub\LibStub.lua
 lib\LibCraftingProfessions-1.0\LibCraftingProfessions-1.0.xml
