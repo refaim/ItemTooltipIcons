@@ -1,6 +1,14 @@
 ## Interface: 11200
 ## Title: ItemTooltipIcons
 ## Notes: This addon adds profession icons to crafting reagents in the item tooltip.
+## Notes-deDE: Dieses Addon fügt Berufssymbole zu Handwerksreagenzien im Gegenstandstooltip hinzu.
+## Notes-esES: Este addon añade iconos de profesión a los reagentes de artesanía en la descripción del objeto.
+## Notes-frFR: Cet addon ajoute des icônes de profession aux réactifs d'artisanat dans l'infobulle des objets.
+## Notes-koKR: 이 애드온은 아이템 툴팁의 제작 재료에 전문기술 아이콘을 추가합니다.
+## Notes-ptBR: Este addon adiciona ícones de profissão aos reagentes de criação na dica do item.
+## Notes-ruRU: Этот аддон добавляет иконки профессий к реагентам для крафта во всплывающей подсказке.
+## Notes-zhCN: 这个插件在物品提示框中为制作材料添加专业技能图标。
+## Notes-zhTW: 這個插件在物品提示框中為製作材料添加專業技能圖標。 
 ## Author: Refaim
 ## Version: 1.2
 
