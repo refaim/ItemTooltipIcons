@@ -10,7 +10,7 @@
 ## Notes-zhCN: 这个插件在物品提示框中为制作材料添加专业技能图标。
 ## Notes-zhTW: 這個插件在物品提示框中為製作材料添加專業技能圖標。 
 ## Author: Refaim
-## Version: 1.2
+## Version: 1.3
 
 lib\LibStub\LibStub.lua
 lib\LibCraftingProfessions-1.0\LibCraftingProfessions-1.0.xml
